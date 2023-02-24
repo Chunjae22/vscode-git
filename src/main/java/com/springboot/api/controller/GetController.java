@@ -1,6 +1,5 @@
 package com.springboot.api.controller;
 
-import java.util.HashMap;
 import java.util.Map;
 
 import org.springframework.web.bind.annotation.GetMapping;
